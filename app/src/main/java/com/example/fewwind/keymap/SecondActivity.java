@@ -27,6 +27,7 @@ import android.widget.Toast;
 import com.example.fewwind.keymap.test.KeyMapActionBean;
 import com.example.fewwind.keymap.util.ReflactUtil;
 import com.orhanobut.logger.Logger;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -138,7 +139,13 @@ public class SecondActivity extends AppCompatActivity implements View.OnClickLis
         Object getFanShe1 = ReflactUtil.invokeMethod(new MainActivity(), "getFanShe");
         Object getFanShe2 = ReflactUtil.invokeMethod2(MainActivity.class, "getFanShe");
         Object getFanShe3 = ReflactUtil.invokeMethod3("com.example.fewwind.keymap.MainActivity", "getFanShe");
-        Logger.w(getFanShe1.toString());
+
+        Object  gettest = ReflactUtil.invokeMethod2(com.orhanobut.logger.Settings.class, "getMethodCount");
+        Logger.w(gettest.toString());
+
+        Class clazz = MainActivity.class;
+        Method[] methods = clazz.getMethods();
+
     }
 
 
