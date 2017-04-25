@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KeyMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_remove_title">Remove the application from the column list, no longer open the keyboard mapping</string>
+    <string name="dialog_cancle">cancle</string>
+    <string name="dialog_ok">ok</string>
+
+    <string name="tv_save">save</string>
+    <string name="tv_cancle">cancle</string>
+    <string name="tv_add">add</string>
+    <string name="tv_key">key</string>
+    <string name="tv_compass">luo</string>
+    <string name="tv_stop">停用</string>
+    <string name="tv_reset">重置</string>
+    <string name="tv_key_content">拖至需求位置，设置按键，并触发相应位置的按钮</string>
+    <string name="tv_compass_content">模拟方向等操作，只能添加一个</string>
+    <string name="tv_stop_content">暂停本应用的键盘映射</string>
+    <string name="tv_reset_content">重新恢复默认设置</string>
+    <string name="network_error">当前网络异常，请检查网络</string>
+    <!--<string name="network_error">Network exception, please check network</string>-->
+
+    <string name="tv_frontsight">Sight - shooting game</string>
+    <string name="tv_frontsight_content">Automatically added to the center of the screen, press the right button to enter the game mode</string>
+    <string name="tv_fire">Fire - shooting game</string>
+    <string name="tv_fire_content">Drag to the firing position of the game, press the left button to fire in the firing mode</string>
+    <string name="tv_alpha">Key opacity</string>
+    <string name="tv_preview">preview</string>
+</resources>

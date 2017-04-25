@@ -1,0 +1,92 @@
+<type name="16:9">
+    <keyMappingInfos pkgName="com.android.settings" state="0">
+        <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="58"
+            y="60.0"/>
+        <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="58"
+            y="60.0"/>
+        <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="58"
+            y="60.0"/>
+        <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="58"
+            y="60.0"/>
+        <keyMappingInfo keyCode="36" keyCodeModifier="0" direction="0" distance="0" x="88"
+            y="88"/>
+        <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="88"
+            y="88"/>
+        <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="88"
+            y="88"/>
+        <keyMappingInfo keyCode="58" keyCodeModifier="0" direction="0" distance="0" x="88"
+            y="88"/>
+    </keyMappingInfos>
+    <keyMappingInfos pkgName="com.android.calculator2" state="1">
+        <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="36" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="58" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+    </keyMappingInfos>
+    <keyMappingInfos pkgName="com.android.deskclock" state="2">
+        <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="36" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="58" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+    </keyMappingInfos>
+    <keyMappingInfos pkgName="com.zhihu.android" state="3">
+        <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="36" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="58" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+    </keyMappingInfos>
+    <keyMappingInfos pkgName="com.tencent.android.qqdownloader" state="1">
+        <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="60"
+            y="60"/>
+        <keyMappingInfo keyCode="36" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+        <keyMappingInfo keyCode="58" keyCodeModifier="0" direction="0" distance="0" x="79"
+            y="79"/>
+    </keyMappingInfos>
+</type>

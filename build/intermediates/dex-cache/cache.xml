@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_5a216e6cb094ed169d561b7c46af5b9f7e0373f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_20d8380158de7b2f8fe57651d7ecc1ac77d75261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_a1149cd2ae81d0b4eeeb6d04b3fe0984c120252e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_6ab291b5f5435bff93538c74b1d59ae8330f6ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_1d2dc98016a246ecd809d6fcec612f519a65ae6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_fcb5895b339b42f68187a1d7ec12ef367ec91e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_55f5c6003fdd679d3e6925ae53573b1479b481f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_3203f497864c93b934c5ba345bece8b79a0f81de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.orhanobut/logger/1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905a1a3170bf8e5f07e14217f5bdc2348f1425ca">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.orhanobut-logger-1.8_dea7b4eccd23d0d59f981132f9ab8c95eab68113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_7be406a51f409009741ec8454fcc3d7d0d124716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/release/io.reactivex-rxandroid-1.1.0_54fed84cb8b03045d48810ff1939c1cd37107e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_2a3a7dbe6597aee76986b86ea17cc34c4adbe305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c2d91183783a883dc62dd1e4b6a63d547b8e5e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_317e911a7d7781e426ca3155f37fa0c11ad8fc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_db105031b117a30b5f4671088c935a984ba7ca9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/release/rxjava-1.1.0_549e454ba96c9afef229743a926f98a8d80cf1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fewwind/project/KeyMap/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/fewwind/project/KeyMap/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_9aa2e45c4ec8b0a1fc1284dfe1a7780c44b4fc59.jar" />
+    </item>
+
+</items>

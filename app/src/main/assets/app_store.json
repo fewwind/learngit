@@ -1,0 +1,70 @@
+{
+  "appstores": [
+    {
+      "app_id": "com.coolapk.market"
+    },
+    {
+      "app_id": "com.qihoo.appstore"
+    },
+    {
+      "app_id": "com.dragon.android.pandaspace"
+    },
+    {
+      "app_id": "com.android.vending"
+    },
+    {
+      "app_id": "com.aspire.mm"
+    },
+    {
+      "app_id": "com.nduoa.nmarket"
+    },
+    {
+      "app_id": "com.oppo.market"
+    },
+    {
+      "app_id": "com.sec.android.app.samsungapps"
+    },
+    {
+      "app_id": "com.lenovo.leos.appstore"
+    },
+    {
+      "app_id": "com.liqucn.android"
+    },
+    {
+      "app_id": "com.hiapk.marketpho"
+    },
+    {
+      "app_id": "cn.goapk.market"
+    },
+    {
+      "app_id": "com.xiaomi.market"
+    },
+    {
+      "app_id": "com.tencent.android.qqdownloader"
+    },
+    {
+      "app_id": "com.yingyonghui.market"
+    },
+    {
+      "app_id": "com.sogou.androidtool"
+    },
+    {
+      "app_id": "com.mappn.gfan"
+    },
+    {
+      "app_id": "com.infinit.wostore.ui"
+    },
+    {
+      "app_id": "com.baidu.appsearch"
+    },
+    {
+      "app_id": "com.yulong.android.coolmart"
+    },
+    {
+      "app_id": "com.huawei.appmarket"
+    },
+    {
+      "app_id": "com.wandoujia.phoenix2"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><!--16:9-->
+
+
+<keyMappingInfos pkgName="com.tencent.tmgp.sgame" state="1"> <!-- 王者荣耀 -->
+    <keyMappingInfo keyCode="38" keyCodeModifier="0" direction="1" distance="0" x="0.122" y="0.795"/><!--J-->
+    <keyMappingInfo keyCode="37" keyCodeModifier="0" direction="2" distance="0" x="0.122" y="0.795"/><!--I-->
+    <keyMappingInfo keyCode="40" keyCodeModifier="0" direction="3" distance="0" x="0.122" y="0.795"/><!--L-->
+    <keyMappingInfo keyCode="39" keyCodeModifier="0" direction="4" distance="0" x="0.122" y="0.795"/><!--K-->
+    <keyMappingInfo keyCode="45" keyCodeModifier="0" direction="0" distance="0" x="0.747" y="0.873"/><!--Q-->
+    <keyMappingInfo keyCode="51" keyCodeModifier="0" direction="0" distance="0" x="0.807" y="0.695"/><!--W-->
+    <keyMappingInfo keyCode="33" keyCodeModifier="0" direction="0" distance="0" x="0.912" y="0.584"/><!--E-->
+    <keyMappingInfo keyCode="8" keyCodeModifier="0" direction="0" distance="0" x="0.693"  y="0.779"/><!--1-->
+    <keyMappingInfo keyCode="9" keyCodeModifier="0" direction="0" distance="0" x="0.754"  y="0.592"/><!--2-->
+    <keyMappingInfo keyCode="10" keyCodeModifier="0" direction="0" distance="0" x="0.858" y="0.484"/><!--3-->
+    <keyMappingInfo keyCode="62" keyCodeModifier="0" direction="0" distance="0" x="0.915" y="0.857"/><!--SPC-->
+    <keyMappingInfo keyCode="30" keyCodeModifier="0" direction="0" distance="0" x="0.505" y="0.897"/><!--B-->
+    <keyMappingInfo keyCode="34" keyCodeModifier="0" direction="0" distance="0" x="0.58"  y="0.897"/><!--F-->
+    <keyMappingInfo keyCode="32" keyCodeModifier="0" direction="0" distance="0" x="0.66"  y="0.897"/><!--D-->
+    <keyMappingInfo keyCode="50" keyCodeModifier="0" direction="0" distance="0" x="0.037" y="0.423"/><!--V-->
+    <keyMappingInfo keyCode="29" keyCodeModifier="0" direction="0" distance="0" x="0.104" y="0.399"/><!--A-->
+    <keyMappingInfo keyCode="47" keyCodeModifier="0" direction="0" distance="0" x="0.104" y="0.515"/><!--S-->
+</keyMappingInfos>
+
+
+
+<keyMappingInfos pkgName="com.ztgame.bob" state="1"> <!-- 球球大作战-->
+<keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="0.282" y="0.703"/><!--A-->
+<keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="0.282" y="0.703"/><!--W-->
+<keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="0.282" y="0.703"/><!--D-->
+<keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="0.282" y="0.703"/><!--S-->
+<keyMappingInfo keyCode="31" keyCodeModifier="0" direction="0" distance="0" x="0.819"  y="0.904"/><!--C-->
+<keyMappingInfo keyCode="62" keyCodeModifier="0" direction="0" distance="0" x="0.933"  y="0.904"/><!--SPC-->
+<keyMappingInfo keyCode="10" keyCodeModifier="0" direction="0" distance="0" x="0.062"  y="0.184"/><!--3-->
+</keyMappingInfos>
+
+
+<keyMappingInfos pkgName="com.miHoYo.bh3.uc" state="1"> <!--崩坏3-->
+<keyMappingInfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="0.119"   y="0.8"/><!--A-->
+<keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="0.119" y="0.8"/><!--W-->
+<keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="0.119" y="0.8"/><!--S-->
+<keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="0.119" y="0.8"/><!--D-->
+<keyMappingInfo keyCode="38" keyCodeModifier="0" direction="0" distance="0" x="0.929"  y="0.895"/><!--J-->
+<keyMappingInfo keyCode="39" keyCodeModifier="0" direction="0" distance="0" x="0.79" y="0.895"/><!--K-->
+<keyMappingInfo keyCode="45" keyCodeModifier="0" direction="0" distance="0" x="0.929" y="0.644"/><!--Q-->
+<keyMappingInfo keyCode="46" keyCodeModifier="0" direction="0" distance="0" x="0.935" y="0.191"/><!--R-->
+<keyMappingInfo keyCode="44" keyCodeModifier="0" direction="0" distance="0" x="0.041" y="0.042"/><!--P-->
+<keyMappingInfo keyCode="37" keyCodeModifier="0" direction="0" distance="0" x="0.122" y="0.042"/><!--I-->
+</keyMappingInfos>
+
+
+<keyMappingInfos pkgName="com.tencent.tmgp.gods" state="1"> <!--全民超神-->
+<keyMappingInfo keyCode="38" keyCodeModifier="0" direction="1" distance="0" x="0.143" y="0.728"/><!--J-->
+<keyMappingInfo keyCode="37" keyCodeModifier="0" direction="2" distance="0" x="0.143" y="0.728"/><!--I-->
+<keyMappingInfo keyCode="40" keyCodeModifier="0" direction="3" distance="0" x="0.143" y="0.728"/><!--L-->
+<keyMappingInfo keyCode="39" keyCodeModifier="0" direction="4" distance="0" x="0.143" y="0.728"/><!--K-->
+<keyMappingInfo keyCode="29" keyCodeModifier="0" direction="0" distance="0" x="0.445"  y="0.899"/><!--A-->
+<keyMappingInfo keyCode="47" keyCodeModifier="0" direction="0" distance="0" x="0.542" y="0.899"/><!--S-->
+<keyMappingInfo keyCode="32" keyCodeModifier="0" direction="0" distance="0" x="0.593" y="0.899"/><!--D-->
+<keyMappingInfo keyCode="34" keyCodeModifier="0" direction="0" distance="0" x="0.669" y="0.899"/><!--F-->
+<keyMappingInfo keyCode="62" keyCodeModifier="0" direction="0" distance="0" x="0.888" y="0.804"/><!--SPC-->
+<keyMappingInfo keyCode="33" keyCodeModifier="0" direction="0" distance="0" x="0.761" y="0.804"/><!--E-->
+<keyMappingInfo keyCode="51" keyCodeModifier="0" direction="0" distance="0" x="0.81" y="0.647"/><!--W-->
+<keyMappingInfo keyCode="45" keyCodeModifier="0" direction="0" distance="0" x="0.898" y="0.538"/><!--Q-->
+<keyMappingInfo keyCode="10" keyCodeModifier="0" direction="0" distance="0" x="0.717" y="0.717"/><!--3-->
+<keyMappingInfo keyCode="9" keyCodeModifier="0" direction="0" distance="0" x="0.775" y="0.538"/><!--2-->
+<keyMappingInfo keyCode="8" keyCodeModifier="0" direction="0" distance="0" x="0.864" y="0.445"/><!--1-->
+<keyMappingInfo keyCode="50" keyCodeModifier="0" direction="0" distance="0" x="0.892" y="0.103"/><!--V-->
+<keyMappingInfo keyCode="30" keyCodeModifier="0" direction="0" distance="0" x="0.958" y="0.103"/><!--B-->
+</keyMappingInfos>
+
+
+<keyMappingInfos pkgName="com.tencent.tmgp.rxcq" state="1"> <!--虚荣-->
+<keyMappingInfo keyCode="45" keyCodeModifier="0" direction="0" distance="0" x="0.437" y="0.923"/><!--Q-->
+<keyMappingInfo keyCode="51" keyCodeModifier="0" direction="0" distance="0" x="0.5" y="0.923"/><!--W-->
+<keyMappingInfo keyCode="33" keyCodeModifier="0" direction="0" distance="0" x="0.562" y="0.923"/><!--E-->
+<keyMappingInfo keyCode="30" keyCodeModifier="0" direction="0" distance="0" x="0.725" y="0.923"/><!--B-->
+<keyMappingInfo keyCode="61" keyCodeModifier="0" direction="0" distance="0" x="0.908" y="0.923"/><!--TAB-->
+<keyMappingInfo keyCode="50" keyCodeModifier="0" direction="0" distance="0" x="0.972" y="0.923"/><!--V-->
+<keyMappingInfo keyCode="8" keyCodeModifier="0" direction="0" distance="0" x="0.437" y="0.875"/><!--1-->
+<keyMappingInfo keyCode="9" keyCodeModifier="0" direction="0" distance="0" x="0.5" y="0.875"/><!--2-->
+<keyMappingInfo keyCode="10" keyCodeModifier="0" direction="0" distance="0" x="0.562" y="0.875"/><!--3-->
+</keyMappingInfos>
+
+
+
+<keyMappingInfos pkgName="com.tencent.tmgp.rxcq" state="1"> <!--热血传奇-->
+<Keymappinginfo keyCode="29" keyCodeModifier="0" direction="1" distance="0" x="0.088" y="0.773"/><!--A-->
+<keyMappingInfo keyCode="51" keyCodeModifier="0" direction="2" distance="0" x="0.088" y="0.773"/><!--W-->
+<keyMappingInfo keyCode="32" keyCodeModifier="0" direction="3" distance="0" x="0.088" y="0.773"/><!--D-->
+<keyMappingInfo keyCode="47" keyCodeModifier="0" direction="4" distance="0" x="0.088" y="0.773"/><!--S-->
+<keyMappingInfo keyCode="62" keyCodeModifier="0" direction="0" distance="0" x="0.937" y="0.846"/><!--SPC-->
+<keyMappingInfo keyCode="10" keyCodeModifier="0" direction="0" distance="0" x="0.87" y="0.838"/><!--3-->
+<keyMappingInfo keyCode="9" keyCodeModifier="0" direction="0" distance="0" x="0.857" y="0.75"/><!--2-->
+<keyMappingInfo keyCode="8" keyCodeModifier="0" direction="0" distance="0" x="0.906" y="0.665"/><!--1-->
+<keyMappingInfo keyCode="46" keyCodeModifier="0" direction="0" distance="0" x="0.949" y="0.521"/><!--R-->
+</keyMappingInfos>
+
+
+
+

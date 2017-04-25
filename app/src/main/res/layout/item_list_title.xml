@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/id_item_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="48dp">
+
+    <TextView
+        android:id="@+id/id_item_title_tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="游戏列表"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/id_item_title_tv_right"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:text="移除"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/id_item_title_tv_mid"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:text="开关"
+        android:gravity="center"
+        android:layout_toLeftOf="@+id/id_item_title_tv_right"
+        android:layout_marginRight="52dp"/>
+
+</RelativeLayout>

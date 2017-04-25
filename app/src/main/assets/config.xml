@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<type name="4:3">
+    <keyMappingInfos pkgName="com.android.settings" state="0">
+        <keyMappingInfo keyCode="1" keyCodeModifier="0" direction="1" distance="1" x="1.0" y="1.0"/>
+
+    </keyMappingInfos>
+    <keyMappingInfos pkgName="com.android.m" state="0">
+        <keyMappingInfo keyCode="2" keyCodeModifier="0" direction="1" distance="2" x="2.0" y="2.0"/>
+
+    </keyMappingInfos>
+
+</type>
+
+<type name="16:9">
+<keyMappingInfos pkgName="com.android.calculator2" state="1" >
+    <keyMappingInfo keyCode="3" keyCodeModifier="0" direction="1" distance="3" x="3.0" y="3.0"/>
+
+</keyMappingInfos>
+<keyMappingInfos pkgName="com.android.n" state="1" >
+    <keyMappingInfo keyCode="4" keyCodeModifier="0" direction="1" distance="4" x="4.0" y="4.0"/>
+
+</keyMappingInfos>
+</type>
